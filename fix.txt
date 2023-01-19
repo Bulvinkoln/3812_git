@@ -1,1 +1,1 @@
-config
+Инструкция по GitHub
