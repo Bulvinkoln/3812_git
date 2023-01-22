@@ -59,4 +59,4 @@ branch 'version_1' set up to track 'origin/version_1'.
 - далее мы можем перейти по ссылке напрямую или перейти в профиль на GitHub и и нажать на Compare & pull request
 - Видим commit создаётся, нажимаем create pull request
 
-при этом создаётся pull request это и есть запрос на слияние.
+при этом создаётся pull request это и есть запрос на слияние. 
