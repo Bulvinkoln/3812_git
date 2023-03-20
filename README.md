@@ -1,4 +1,3 @@
-
 # My project
 
 ## Сreate a teacher fork
